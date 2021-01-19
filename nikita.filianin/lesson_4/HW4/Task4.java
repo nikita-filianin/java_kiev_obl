@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class Task4 {
     public static void main(String[] args) {
         System.out.println("First leg: " + args[0]);
@@ -9,7 +8,7 @@ public class Task4 {
         System.out.println("Hypotenuse is: " + result);
     }
 }
-=======
+
 public class Task4 {
     public static void main(String[] args) {
         System.out.println("First leg: " + args[0]);
@@ -20,4 +19,4 @@ public class Task4 {
         System.out.println("Hypotenuse is: " + result);
     }
 }
->>>>>>> 8f61411e1952323e726321093d9ac5cf2210abf1
+

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class Task7 {
     public static void main(String[] args) {
         int amountOfPeople = Integer.parseInt(args[0]);
@@ -11,7 +10,6 @@ public class Task7 {
     }
 
 }
-=======
 public class Task7 {
     public static void main(String[] args) {
         int amountOfPeople = Integer.parseInt(args[0]);
@@ -24,4 +22,3 @@ public class Task7 {
     }
 
 }
->>>>>>> 8f61411e1952323e726321093d9ac5cf2210abf1

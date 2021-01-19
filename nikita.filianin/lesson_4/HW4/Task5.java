@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class Task5 {
     public static double getResult(double first, double second){
         double percent = 0;
@@ -35,7 +34,7 @@ public class Task5 {
         System.out.println(whoWin(firstTeam, secondTeam));
         System.out.println("Winrate: " + getResult(firstTeam, secondTeam) + "%");
     }
-=======
+
 public class Task5 {
     public static double getResult(double first, double second){
         double percent = 0;
@@ -72,5 +71,4 @@ public class Task5 {
         System.out.println(whoWin(firstTeam, secondTeam));
         System.out.println("Winrate: " + getResult(firstTeam, secondTeam) + "%");
     }
->>>>>>> 8f61411e1952323e726321093d9ac5cf2210abf1
 }

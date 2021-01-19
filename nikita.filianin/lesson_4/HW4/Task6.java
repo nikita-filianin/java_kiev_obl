@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class Task6 {
     public static void main(String[] args) {
         System.out.println("Height of a Cylinder: " + args[0]);
@@ -9,7 +8,6 @@ public class Task6 {
         System.out.println("Cylinder capacity is: " + result);
     }
 }
-=======
 public class Task6 {
     public static void main(String[] args) {
         System.out.println("Height of a Cylinder: " + args[0]);
@@ -20,4 +18,3 @@ public class Task6 {
         System.out.println("Cylinder capacity is: " + result);
     }
 }
->>>>>>> 8f61411e1952323e726321093d9ac5cf2210abf1

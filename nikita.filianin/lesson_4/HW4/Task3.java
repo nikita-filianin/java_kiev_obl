@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 public class Task3 {
     public static void main(String[] args) {
         System.out.println("First Number: " + args[0]);
@@ -18,7 +17,7 @@ public class Task3 {
         System.out.println(result);
     }
 }
-=======
+
 public class Task3 {
     public static void main(String[] args) {
         System.out.println("First Number: " + args[0]);
@@ -38,4 +37,4 @@ public class Task3 {
         System.out.println(result);
     }
 }
->>>>>>> 8f61411e1952323e726321093d9ac5cf2210abf1
+
