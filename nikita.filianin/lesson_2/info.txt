@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Ruslan Grammatic
+=======
+Hello Ruslan Grammatic
+>>>>>>> 8f61411e1952323e726321093d9ac5cf2210abf1
